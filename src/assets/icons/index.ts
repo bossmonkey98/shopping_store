@@ -1,0 +1,5 @@
+export {default as BagIcon} from './bag/bag.png'
+export {default as SearchIcon} from './search/Search.png'
+export {default as DownArrow} from './down-arrow/down-arrow.png'
+export {default as BannerImg} from './img/img.png'
+export {default as HeartIcon} from './heart/heart.png'
